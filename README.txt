@@ -1,4 +1,5 @@
-Mean-Variance-Standard Deviation Calculator
+MEAN-VARIANCE-STANDARD DEVIATION CALCULATOR
+
 This project is part of the freeCodeCamp Data Analysis with Python certification.
 It performs basic statistical analysis (mean, variance, standard deviation, min, max, sum) on a 3x3 matrix using NumPy.
 
