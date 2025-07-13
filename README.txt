@@ -16,5 +16,5 @@ CALCULATES:
 
 RETURNS ALL RESULTS ACROSS:
   •   Each column
-  •   E ach row
+  •   Each row
   •   Entire matrix
