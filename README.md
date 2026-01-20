@@ -5,13 +5,13 @@ It performs basic statistical analysis (mean, variance, standard deviation, min,
 
 ---
 
-## Features:
+## Features
 - Accepts a list of 9 numerical values
 - Reshapes the list into a 3x3 matrix
 
 ---
 
-## Calculates:
+## Calculates
 - Mean
 - Variance
 - Standard Deviation
@@ -20,7 +20,7 @@ It performs basic statistical analysis (mean, variance, standard deviation, min,
 
 ---
 
-## Returns all results across:
+## Returns all results across
 - Each column
 - Each row
 - Entire matrix
